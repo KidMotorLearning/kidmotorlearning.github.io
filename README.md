@@ -1,7 +1,5 @@
-+---
-+title: “Kid Motor Learning”
-+---
-<br> Kennedy Krieger Institute and Johns Hopkins Medicine 
+# Kid Motor Learning
+Kennedy Krieger Institute and Johns Hopkins Medicine 
 <br> Baltimore, MD
 
 ## About our research
